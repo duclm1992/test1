@@ -1,2 +1,4 @@
-test git
+test git_example
+them vao day
 bo sung thong tin
+them tiep
